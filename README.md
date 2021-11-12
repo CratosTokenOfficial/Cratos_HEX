@@ -1,4 +1,4 @@
-# Cratos_HEX
+# Cratos_Web3
 
 안녕하세요!
 간단한 데이터를 Hexing 하여 온체인에 올려놓는 테스팅 중에 있습니다.
