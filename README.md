@@ -13,6 +13,8 @@ https://kovan.etherscan.io/address/0xa62d1a98694a527da386116273374917892b40d5
 추후, Cratos가 메인넷을 하여도 토큰의 범용성과 네트워크의 안정성을 이유로
 타 블록체인 네트워크에 중복적인 투표 업로드를 기대합니다.
 
+현재 ERC20 CRTS는 앱 내 토큰 확인 후 전송하게 되어지며, rstormsf의 멀티센더를 사용하고 있습니다. 
+
 만약, 어려운 부분이 있으시다면 
 Telegram : https://t.me/CratosOfficial으로 들어오셔서 
 Jay 혹은 David를 불러 주신다면 답변해 드리겠습니다 ^^
